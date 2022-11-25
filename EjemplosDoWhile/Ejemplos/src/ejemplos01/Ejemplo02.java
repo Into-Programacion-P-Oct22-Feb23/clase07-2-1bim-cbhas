@@ -33,7 +33,7 @@ public class Ejemplo02 {
             if (salida.equals("s")) { // f
                 bandera = false;
             }
-            
+
         } while (bandera); // (bandera==true)
 
         System.out.printf("Listado de Notas\n%s\n", cadenaFinal);
